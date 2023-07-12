@@ -1,5 +1,6 @@
 # left-right
 For the ACM Junior Core Internal Hackathon 2023
+
 Figma link: https://www.figma.com/file/wZ5vWKVvHTz8SN7CXzOzIh/Untitled?type=design&node-id=0%3A1&mode=design&t=vy3KmwuALmWxoYIb-1 
 
 Introducing our groundbreaking app that revolutionizes the way people learn about Indian politics. With our app, you'll embark on an exciting journey of political discovery, staying informed with daily updates on the latest happenings and developments.
