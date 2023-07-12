@@ -11,3 +11,5 @@ Learning about Indian politics has never been more engaging and accessible. Our 
 Stay up-to-date with curated news and analysis, delivered to your fingertips. Our app brings you the latest political news, breaking down complex concepts into bite-sized, easy-to-understand pieces of information. You'll gain valuable insights into the political landscape and its impact on society.
 
 We believe in fostering an inclusive and respectful community. Our app provides a safe space for users to express their thoughts, share their opinions, and engage in thoughtful discussions. Through constructive dialogue, we promote understanding and bridge the gap between diverse perspectives.
+
+-Team MemeMandir (Aastik Narang, Kushagra Rohatgi, Karan Dugar & Manan Shah)
